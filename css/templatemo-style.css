@@ -13,6 +13,7 @@ http://www.templatemo.com/tm-515-eatery
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
   }
+  .collapse navbar-collapse {color: #fce300}
 
 
 
@@ -47,7 +48,7 @@ http://www.templatemo.com/tm-515-eatery
     color: #454545;
   }
   
-  h4 {color: #fce300}
+  .vision, .wow fadeInUp {color: #fce300}
 
   p {
     color: #757575;
@@ -645,6 +646,7 @@ http://www.templatemo.com/tm-515-eatery
       TESTIMONIAL             
   -----------------------------------------*/
 
+  .testimonials {color:#fce300}
   #testimonial {
     background: url('../images/testimonial-bg.jpg') center center no-repeat;
     background-size: cover;

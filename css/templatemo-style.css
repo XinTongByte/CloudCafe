@@ -105,7 +105,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .overlay {
-    background: rgba(0,0,0,0.5);
+    background: rgb(0,0,0);
     position: absolute;
     top: 0;
     right: 0;
